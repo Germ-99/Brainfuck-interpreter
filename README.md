@@ -1,7 +1,7 @@
 # Brainfuck-interpreter
 A simple brainfuck interpreter written in C
 
-### Usage
+# Usage
 
 ## Windows
 - Download the ``bf.exe`` file in the releases section
