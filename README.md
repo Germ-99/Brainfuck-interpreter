@@ -6,7 +6,7 @@ A simple brainfuck interpreter written in C
 ## Windows
 - Download the ``bf.exe`` file in the releases section
 - open your terminal in the directory that the ``bf.exe`` file was installed in
-- do ``bf.exe {path to your brainfuck file}``
+- run ``bf.exe {path to your brainfuck file}``
 
 ## Linux
 - Download the ``bf`` file in the releases section
